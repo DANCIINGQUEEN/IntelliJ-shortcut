@@ -1,6 +1,4 @@
 # IntelliJ-shortcut
-# IntelliJ-shortcut
-
 ### 코드 탐색
 1. **Ctrl + G** - 특정 라인으로 이동합니다.
 2. **Alt + Home** - 내비게이션 바 표시/숨기기.
